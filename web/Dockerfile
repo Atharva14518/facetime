@@ -1,4 +1,4 @@
-# The web app as one long-lived container (Railway, Fly.io or any Docker host). Build context: web/.
+# The web app as one long-lived container (Render, Railway, Fly.io or any Docker host). Build context: web/.
 # Data and the face models live on a volume mounted at /data, so they survive redeploys.
 FROM node:22.23.3-bookworm-slim
 
@@ -17,8 +17,8 @@ RUN pnpm install --frozen-lockfile
 
 COPY . .
 
-# Public values are compiled into the browser bundle, so they must be set before the build (Railway
-# passes service variables to ARGs of the same name).
+# Public values are compiled into the browser bundle, so they must be set before the build. Render
+# and Railway pass service variables to Docker build args of the same name.
 ARG NEXT_PUBLIC_DYNAMIC_ENV_ID
 ARG NEXT_PUBLIC_RP_ID
 ARG NEXT_PUBLIC_APP_URL

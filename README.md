@@ -332,12 +332,10 @@ cd indexer && pnpm test        # Envio handlers on the in-memory test indexer
 
 ### Deploying
 
-Production runs on Vercel at `www.likeness.site` (`likeness.site` redirects to it), with
-`NEXT_PUBLIC_RP_ID=likeness.site` so passkeys work on both. Create a project from this repo with Root
-Directory `web`, connect a private Blob store (`STORE_DRIVER=blob`), then from `web/` run
-`sh scripts/vercel-env.sh https://www.likeness.site`: it shows the linked project's name and asks you to
-type it back before writing the variables from `.env.local` and `../.secrets`. Redeploy without the build
-cache and check `/status`.
+The app can deploy to Vercel (serverless Next.js plus private Blob storage) or Render (Docker plus a
+persistent disk). See [DEPLOYMENT.md](DEPLOYMENT.md) for the provider setup, required environment
+variables, security notes, verification steps, and the important passkey/data separation between the
+two environments.
 
 ## Disclosures
 

@@ -1,8 +1,10 @@
 # Never sent to a Docker build: secrets, local data and models, dependencies and build output.
-.env*.local
+.env*
+!.env.example
 .data
 .models
 .next
 node_modules
 demo-renders
 *.tsbuildinfo
+*.ses

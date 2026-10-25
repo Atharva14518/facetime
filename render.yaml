@@ -1,0 +1,47 @@
+services:
+  - type: web
+    name: facetime-likeness
+    runtime: docker
+    branch: main
+    plan: 1c-2g
+    dockerfilePath: ./web/Dockerfile
+    dockerContext: ./web
+    healthCheckPath: /api/status
+    autoDeployTrigger: commit
+    disk:
+      name: likeness-data
+      mountPath: /data
+      sizeGB: 5
+    envVars:
+      - key: PORT
+        value: "10000"
+      - key: STORE_DRIVER
+        value: local
+      - key: STORE_DIR
+        value: /data/vault
+      - key: DB_DIR
+        value: /data/db
+      - key: RENDERS_DIR
+        value: /data/renders
+      - key: INDEX_CACHE_DIR
+        value: /data
+      - key: FACE_MODELS_DIR
+        value: /data/models
+      - key: FACE_MODELS_FETCH
+        value: "1"
+      - key: INDEX_SCAN_BUDGET_MS
+        value: "20000"
+      - key: VERIFICATION_LEVEL
+        value: free
+      - key: NEXT_PUBLIC_MONAD_RPC_URL
+        value: https://testnet-rpc.monad.xyz
+      - key: MONAD_RPC_URL
+        value: https://testnet-rpc.monad.xyz
+      # These values are deployment-specific and are supplied in Render's
+      # initial Blueprint form. Never commit API keys or private keys here.
+      - key: NEXT_PUBLIC_APP_URL
+        sync: false
+      - key: NEXT_PUBLIC_RP_ID
+        sync: false
+      - key: NEXT_PUBLIC_DYNAMIC_ENV_ID
+        sync: false
