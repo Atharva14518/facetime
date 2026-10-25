@@ -1,0 +1,327 @@
+1
+00:00:00,453 --> 00:00:02,115
+Imagine seeing your face in an
+
+2
+00:00:02,128 --> 00:00:04,048
+ad you never agreed to Someone
+
+3
+00:00:04,061 --> 00:00:06,072
+else chose the message Someone else
+
+4
+00:00:06,085 --> 00:00:09,510
+got paid Making that image keeps
+
+5
+00:00:09,523 --> 00:00:11,920
+getting easier Getting your permission should
+
+6
+00:00:11,932 --> 00:00:16,033
+be just as simple Creators need
+
+7
+00:00:16,046 --> 00:00:17,502
+a say in how their likeness
+
+8
+00:00:17,592 --> 00:00:20,002
+is used Brands need clear permission
+
+9
+00:00:20,221 --> 00:00:22,386
+they can actually verify And both
+
+10
+00:00:22,399 --> 00:00:23,791
+need a record that connects the
+
+11
+00:00:23,804 --> 00:00:26,278
+person the agreement and the finished
+
+12
+00:00:26,291 --> 00:00:31,690
+image That's why we built Facetime
+
+13
+00:00:32,115 --> 00:00:34,203
+A creator chooses the terms A
+
+14
+00:00:34,216 --> 00:00:36,716
+brand requests a licence Every paid
+
+15
+00:00:36,729 --> 00:00:38,739
+render carries a receipt And when
+
+16
+00:00:38,752 --> 00:00:40,724
+the creator says stop the next
+
+17
+00:00:40,737 --> 00:00:45,643
+render has to stop too Here's
+
+18
+00:00:45,656 --> 00:00:48,437
+the onboarding illustrated An identity check
+
+19
+00:00:48,449 --> 00:00:50,312
+confirms an adult with a live
+
+20
+00:00:50,324 --> 00:00:53,698
+selfie and a face match Three
+
+21
+00:00:53,711 --> 00:00:56,262
+reference photos are matched then encrypted
+
+22
+00:00:56,275 --> 00:00:57,628
+in the browser with a key
+
+23
+00:00:57,641 --> 00:01:00,904
+derived from your passkey I've already
+
+24
+00:01:00,917 --> 00:01:03,262
+completed registration so let's move into
+
+25
+00:01:03,275 --> 00:01:05,208
+my actual account This is the
+
+26
+00:01:05,221 --> 00:01:07,708
+creator dashboard running locally You can
+
+27
+00:01:07,721 --> 00:01:10,208
+see my verification my licence settings
+
+28
+00:01:10,414 --> 00:01:11,742
+and the controls that stay with
+
+29
+00:01:11,755 --> 00:01:17,554
+me My starting terms allow advertising
+
+30
+00:01:17,566 --> 00:01:20,041
+and social use worldwide at two
+
+31
+00:01:20,054 --> 00:01:22,541
+USDC per render Each licence can
+
+32
+00:01:22,554 --> 00:01:24,448
+last thirty days with up to
+
+33
+00:01:24,461 --> 00:01:26,871
+a hundred renders And every request
+
+34
+00:01:26,884 --> 00:01:31,059
+needs my approval Now follow an
+
+35
+00:01:31,072 --> 00:01:33,662
+example brand request A coffee brand
+
+36
+00:01:33,675 --> 00:01:35,286
+asks for five images for a
+
+37
+00:01:35,298 --> 00:01:37,786
+social campaign The request spells out
+
+38
+00:01:37,798 --> 00:01:39,770
+the use the duration and the
+
+39
+00:01:39,783 --> 00:01:42,257
+price before the creator decides whether
+
+40
+00:01:42,270 --> 00:01:47,090
+to approve Approval signs that specific
+
+41
+00:01:47,103 --> 00:01:49,757
+agreement The brand issues the licence
+
+42
+00:01:50,028 --> 00:01:51,806
+and the creator releases the reference
+
+43
+00:01:51,819 --> 00:01:53,546
+photos to the renderer for that
+
+44
+00:01:53,559 --> 00:01:55,891
+licence Having an account alone does
+
+45
+00:01:55,904 --> 00:01:58,146
+not grant access to somebody's face
+
+46
+00:02:00,460 --> 00:02:02,724
+The brand deposits ten USDC into
+
+47
+00:02:02,736 --> 00:02:05,573
+escrow Each two USDC render pays
+
+48
+00:02:05,586 --> 00:02:07,193
+one eighty to the creator and
+
+49
+00:02:07,205 --> 00:02:09,104
+twenty cents to the platform The
+
+50
+00:02:09,117 --> 00:02:11,004
+remaining balance stays available for the
+
+51
+00:02:11,016 --> 00:02:13,597
+licence rather than becoming an unlimited
+
+52
+00:02:13,609 --> 00:02:17,333
+buyout Before rendering the service checks
+
+53
+00:02:17,345 --> 00:02:19,771
+the licence its limits the available
+
+54
+00:02:19,783 --> 00:02:22,147
+funds and the prompt This local
+
+55
+00:02:22,160 --> 00:02:24,253
+setup uses a clearly marked test
+
+56
+00:02:24,265 --> 00:02:26,876
+renderer The generated image integration is
+
+57
+00:02:26,888 --> 00:02:28,772
+separate from the consent and payment
+
+58
+00:02:28,785 --> 00:02:31,453
+flow A paid output gets a
+
+59
+00:02:31,466 --> 00:02:33,838
+receipt and a content credential The
+
+60
+00:02:33,851 --> 00:02:35,512
+verifier connects it back to its
+
+61
+00:02:35,525 --> 00:02:38,430
+licence Revoke that licence and future
+
+62
+00:02:38,442 --> 00:02:41,106
+renders are refused Earlier files remain
+
+63
+00:02:41,119 --> 00:02:43,643
+traceable as licensed when made since
+
+64
+00:02:43,656 --> 00:02:46,985
+revoked Under the hood React and
+
+65
+00:02:46,996 --> 00:02:49,254
+Next . js connect Dynamic wallets
+
+66
+00:02:49,480 --> 00:02:52,019
+Didit verification Mera passkey encryption and
+
+67
+00:02:52,029 --> 00:02:54,374
+a Gemini render integration Monad contracts
+
+68
+00:02:54,385 --> 00:02:57,816
+hold licences escrow and receipts C2PA
+
+69
+00:02:57,827 --> 00:02:59,838
+carries provenance in the file Reference
+
+70
+00:02:59,849 --> 00:03:01,828
+photos stay encrypted in storage and
+
+71
+00:03:01,838 --> 00:03:03,753
+are decrypted in memory for authorized
+
+72
+00:03:03,764 --> 00:03:06,393
+rendering This demo runs on a
+
+73
+00:03:06,404 --> 00:03:08,563
+local Monad fork with test credentials
+
+74
+00:03:08,928 --> 00:03:10,367
+The next milestone is proving the
+
+75
+00:03:10,378 --> 00:03:12,600
+full experience with production services and
+
+76
+00:03:12,610 --> 00:03:16,329
+independently reviewed contracts AI is changing
+
+77
+00:03:16,342 --> 00:03:18,211
+what people can create The people
+
+78
+00:03:18,224 --> 00:03:19,744
+in those images should share in
+
+79
+00:03:19,757 --> 00:03:21,471
+that value and keep a say
+
+80
+00:03:21,484 --> 00:03:23,752
+in what happens next That's Facetime
+
+81
+00:03:24,177 --> 00:03:25,131
+We'd love to show you the
+
+82
+00:03:25,144 --> 00:03:26,213
+controls behind it

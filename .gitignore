@@ -1,0 +1,44 @@
+# ------------------------------------------------ secrets: never, anywhere
+.env
+.env.*
+!.env.example
+.secrets/
+*.pem
+*.key
+*.keystore
+
+# ------------------------------------------------ biometric data: never committed, never at rest in plaintext
+captures/
+*.reference/
+# ...except the API route that checks them (code, holds no images)
+!web/app/api/captures/
+
+# ------------------------------------------------ dependencies and build output
+node_modules/
+.tools/
+contracts/out/
+contracts/cache/
+contracts/broadcast/*/*/dry-run/
+contracts/foundry-pp/
+.next/
+.vercel/
+*.tsbuildinfo
+
+# ------------------------------------------------ editor and OS
+.DS_Store
+.vscode/
+*.ses
+
+# local ciphertext store
+.data/
+contracts/broadcast/*/*/run-[0-9]*.json
+
+# live demo outputs (rendered images of a real creator): never committed
+demo-renders/
+
+# project notes and screenshots: kept locally, not in the repository
+docs/*
+!docs/brand/
+!docs/dynamic.md
+!docs/mera.md
+.vercel

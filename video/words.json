@@ -1,0 +1,2936 @@
+[
+  {
+    "text": "Imagine",
+    "start": 0.45308299999999996,
+    "end": 0.904124,
+    "scene": "hook"
+  },
+  {
+    "text": "seeing",
+    "start": 0.9169999999999999,
+    "end": 1.2520409999999997,
+    "scene": "hook"
+  },
+  {
+    "text": "your",
+    "start": 1.264958,
+    "end": 1.406708,
+    "scene": "hook"
+  },
+  {
+    "text": "face",
+    "start": 1.4195829999999998,
+    "end": 1.844833,
+    "scene": "hook"
+  },
+  {
+    "text": "in",
+    "start": 1.8577499999999998,
+    "end": 1.9994999999999998,
+    "scene": "hook"
+  },
+  {
+    "text": "an",
+    "start": 2.012375,
+    "end": 2.115458,
+    "scene": "hook"
+  },
+  {
+    "text": "ad",
+    "start": 2.128333,
+    "end": 2.334499,
+    "scene": "hook"
+  },
+  {
+    "text": "you",
+    "start": 2.347416,
+    "end": 2.437624,
+    "scene": "hook"
+  },
+  {
+    "text": "never",
+    "start": 2.4505,
+    "end": 2.759791,
+    "scene": "hook"
+  },
+  {
+    "text": "agreed",
+    "start": 2.772666,
+    "end": 3.0948320000000002,
+    "scene": "hook"
+  },
+  {
+    "text": "to",
+    "start": 3.1077500000000002,
+    "end": 3.326833,
+    "scene": "hook"
+  },
+  {
+    "text": "Someone",
+    "start": 3.752041,
+    "end": 4.048416,
+    "scene": "hook"
+  },
+  {
+    "text": "else",
+    "start": 4.061333,
+    "end": 4.306166,
+    "scene": "hook"
+  },
+  {
+    "text": "chose",
+    "start": 4.319083,
+    "end": 4.589708,
+    "scene": "hook"
+  },
+  {
+    "text": "the",
+    "start": 4.602582999999999,
+    "end": 4.666998999999999,
+    "scene": "hook"
+  },
+  {
+    "text": "message",
+    "start": 4.6799159999999995,
+    "end": 5.221165999999999,
+    "scene": "hook"
+  },
+  {
+    "text": "Someone",
+    "start": 5.646375,
+    "end": 5.891208,
+    "scene": "hook"
+  },
+  {
+    "text": "else",
+    "start": 5.904125,
+    "end": 6.071666,
+    "scene": "hook"
+  },
+  {
+    "text": "got",
+    "start": 6.084541,
+    "end": 6.290706999999999,
+    "scene": "hook"
+  },
+  {
+    "text": "paid",
+    "start": 6.303624999999999,
+    "end": 6.677332999999999,
+    "scene": "hook"
+  },
+  {
+    "text": "Making",
+    "start": 8.453083,
+    "end": 8.723708,
+    "scene": "question"
+  },
+  {
+    "text": "that",
+    "start": 8.736583,
+    "end": 8.878333,
+    "scene": "question"
+  },
+  {
+    "text": "image",
+    "start": 8.89125,
+    "end": 9.200541,
+    "scene": "question"
+  },
+  {
+    "text": "keeps",
+    "start": 9.213415999999999,
+    "end": 9.509791,
+    "scene": "question"
+  },
+  {
+    "text": "getting",
+    "start": 9.522666,
+    "end": 9.780415999999999,
+    "scene": "question"
+  },
+  {
+    "text": "easier",
+    "start": 9.793291,
+    "end": 10.282999,
+    "scene": "question"
+  },
+  {
+    "text": "Getting",
+    "start": 10.721125,
+    "end": 10.901541,
+    "scene": "question"
+  },
+  {
+    "text": "your",
+    "start": 10.914416,
+    "end": 11.030415999999999,
+    "scene": "question"
+  },
+  {
+    "text": "permission",
+    "start": 11.043291,
+    "end": 11.597415999999999,
+    "scene": "question"
+  },
+  {
+    "text": "should",
+    "start": 11.739165999999999,
+    "end": 11.919582,
+    "scene": "question"
+  },
+  {
+    "text": "be",
+    "start": 11.932458,
+    "end": 12.099999,
+    "scene": "question"
+  },
+  {
+    "text": "just",
+    "start": 12.112874999999999,
+    "end": 12.40925,
+    "scene": "question"
+  },
+  {
+    "text": "as",
+    "start": 12.422166,
+    "end": 12.512374,
+    "scene": "question"
+  },
+  {
+    "text": "simple",
+    "start": 12.52525,
+    "end": 12.9505,
+    "scene": "question"
+  },
+  {
+    "text": "Creators",
+    "start": 15.453083,
+    "end": 15.865458,
+    "scene": "problem"
+  },
+  {
+    "text": "need",
+    "start": 15.878333,
+    "end": 16.032958,
+    "scene": "problem"
+  },
+  {
+    "text": "a",
+    "start": 16.045875,
+    "end": 16.0845409,
+    "scene": "problem"
+  },
+  {
+    "text": "say",
+    "start": 16.097416,
+    "end": 16.496916,
+    "scene": "problem"
+  },
+  {
+    "text": "in",
+    "start": 16.509791,
+    "end": 16.599999,
+    "scene": "problem"
+  },
+  {
+    "text": "how",
+    "start": 16.612875,
+    "end": 16.7675,
+    "scene": "problem"
+  },
+  {
+    "text": "their",
+    "start": 16.780416,
+    "end": 16.947957,
+    "scene": "problem"
+  },
+  {
+    "text": "likeness",
+    "start": 16.960833,
+    "end": 17.502083,
+    "scene": "problem"
+  },
+  {
+    "text": "is",
+    "start": 17.59225,
+    "end": 17.733999999999998,
+    "scene": "problem"
+  },
+  {
+    "text": "used",
+    "start": 17.746916,
+    "end": 18.249499,
+    "scene": "problem"
+  },
+  {
+    "text": "Brands",
+    "start": 18.687625,
+    "end": 18.945375,
+    "scene": "problem"
+  },
+  {
+    "text": "need",
+    "start": 18.95825,
+    "end": 19.164416,
+    "scene": "problem"
+  },
+  {
+    "text": "clear",
+    "start": 19.177333,
+    "end": 19.460833,
+    "scene": "problem"
+  },
+  {
+    "text": "permission",
+    "start": 19.473708,
+    "end": 20.002041,
+    "scene": "problem"
+  },
+  {
+    "text": "they",
+    "start": 20.221125,
+    "end": 20.337125,
+    "scene": "problem"
+  },
+  {
+    "text": "can",
+    "start": 20.35,
+    "end": 20.478875,
+    "scene": "problem"
+  },
+  {
+    "text": "actually",
+    "start": 20.49175,
+    "end": 20.826791,
+    "scene": "problem"
+  },
+  {
+    "text": "verify",
+    "start": 20.839708,
+    "end": 21.458249000000002,
+    "scene": "problem"
+  },
+  {
+    "text": "And",
+    "start": 21.883499999999998,
+    "end": 22.012375,
+    "scene": "problem"
+  },
+  {
+    "text": "both",
+    "start": 22.02525,
+    "end": 22.386083,
+    "scene": "problem"
+  },
+  {
+    "text": "need",
+    "start": 22.398958,
+    "end": 22.579374,
+    "scene": "problem"
+  },
+  {
+    "text": "a",
+    "start": 22.59225,
+    "end": 22.630915899999998,
+    "scene": "problem"
+  },
+  {
+    "text": "record",
+    "start": 22.643833,
+    "end": 23.094874,
+    "scene": "problem"
+  },
+  {
+    "text": "that",
+    "start": 23.10775,
+    "end": 23.236625,
+    "scene": "problem"
+  },
+  {
+    "text": "connects",
+    "start": 23.249499999999998,
+    "end": 23.687624999999997,
+    "scene": "problem"
+  },
+  {
+    "text": "the",
+    "start": 23.700499999999998,
+    "end": 23.790708000000002,
+    "scene": "problem"
+  },
+  {
+    "text": "person",
+    "start": 23.803625,
+    "end": 24.306207999999998,
+    "scene": "problem"
+  },
+  {
+    "text": "the",
+    "start": 24.679916,
+    "end": 24.770124000000003,
+    "scene": "problem"
+  },
+  {
+    "text": "agreement",
+    "start": 24.783,
+    "end": 25.388666,
+    "scene": "problem"
+  },
+  {
+    "text": "and",
+    "start": 25.685041,
+    "end": 25.749457,
+    "scene": "problem"
+  },
+  {
+    "text": "the",
+    "start": 25.762375,
+    "end": 25.826791,
+    "scene": "problem"
+  },
+  {
+    "text": "finished",
+    "start": 25.839708,
+    "end": 26.277833,
+    "scene": "problem"
+  },
+  {
+    "text": "image",
+    "start": 26.290708000000002,
+    "end": 26.741749,
+    "scene": "problem"
+  },
+  {
+    "text": "That's",
+    "start": 30.466,
+    "end": 30.594875000000002,
+    "scene": "promise"
+  },
+  {
+    "text": "why",
+    "start": 30.607750000000003,
+    "end": 30.723750000000003,
+    "scene": "promise"
+  },
+  {
+    "text": "we",
+    "start": 30.736583000000003,
+    "end": 30.865458,
+    "scene": "promise"
+  },
+  {
+    "text": "built",
+    "start": 30.878333,
+    "end": 31.097416000000003,
+    "scene": "promise"
+  },
+  {
+    "text": "Facetime",
+    "start": 31.110291,
+    "end": 31.690207,
+    "scene": "promise"
+  },
+  {
+    "text": "A",
+    "start": 32.115458000000004,
+    "end": 32.179874,
+    "scene": "promise"
+  },
+  {
+    "text": "creator",
+    "start": 32.192791,
+    "end": 32.656707000000004,
+    "scene": "promise"
+  },
+  {
+    "text": "chooses",
+    "start": 32.669583,
+    "end": 33.043291,
+    "scene": "promise"
+  },
+  {
+    "text": "the",
+    "start": 33.056166000000005,
+    "end": 33.146374,
+    "scene": "promise"
+  },
+  {
+    "text": "terms",
+    "start": 33.159291,
+    "end": 33.713416,
+    "scene": "promise"
+  },
+  {
+    "text": "A",
+    "start": 34.138666,
+    "end": 34.203082,
+    "scene": "promise"
+  },
+  {
+    "text": "brand",
+    "start": 34.215958,
+    "end": 34.525249,
+    "scene": "promise"
+  },
+  {
+    "text": "requests",
+    "start": 34.538125,
+    "end": 35.002041000000006,
+    "scene": "promise"
+  },
+  {
+    "text": "a",
+    "start": 35.014958,
+    "end": 35.0664989,
+    "scene": "promise"
+  },
+  {
+    "text": "licence",
+    "start": 35.079375,
+    "end": 35.710833,
+    "scene": "promise"
+  },
+  {
+    "text": "Every",
+    "start": 36.136083,
+    "end": 36.368041,
+    "scene": "promise"
+  },
+  {
+    "text": "paid",
+    "start": 36.380916,
+    "end": 36.715957,
+    "scene": "promise"
+  },
+  {
+    "text": "render",
+    "start": 36.728875,
+    "end": 37.128375,
+    "scene": "promise"
+  },
+  {
+    "text": "carries",
+    "start": 37.14125,
+    "end": 37.514958,
+    "scene": "promise"
+  },
+  {
+    "text": "a",
+    "start": 37.527833,
+    "end": 37.5664989,
+    "scene": "promise"
+  },
+  {
+    "text": "receipt",
+    "start": 37.579375,
+    "end": 38.120625000000004,
+    "scene": "promise"
+  },
+  {
+    "text": "And",
+    "start": 38.545875,
+    "end": 38.623208,
+    "scene": "promise"
+  },
+  {
+    "text": "when",
+    "start": 38.636083,
+    "end": 38.739166,
+    "scene": "promise"
+  },
+  {
+    "text": "the",
+    "start": 38.752041000000006,
+    "end": 38.829374,
+    "scene": "promise"
+  },
+  {
+    "text": "creator",
+    "start": 38.84225,
+    "end": 39.2675,
+    "scene": "promise"
+  },
+  {
+    "text": "says",
+    "start": 39.280416,
+    "end": 39.563916,
+    "scene": "promise"
+  },
+  {
+    "text": "stop",
+    "start": 39.576791,
+    "end": 40.040707,
+    "scene": "promise"
+  },
+  {
+    "text": "the",
+    "start": 40.311333000000005,
+    "end": 40.388666,
+    "scene": "promise"
+  },
+  {
+    "text": "next",
+    "start": 40.401541,
+    "end": 40.723707000000005,
+    "scene": "promise"
+  },
+  {
+    "text": "render",
+    "start": 40.736583,
+    "end": 41.084541,
+    "scene": "promise"
+  },
+  {
+    "text": "has",
+    "start": 41.097416,
+    "end": 41.290707,
+    "scene": "promise"
+  },
+  {
+    "text": "to",
+    "start": 41.303625000000004,
+    "end": 41.380958,
+    "scene": "promise"
+  },
+  {
+    "text": "stop",
+    "start": 41.393833,
+    "end": 41.728874000000005,
+    "scene": "promise"
+  },
+  {
+    "text": "too",
+    "start": 41.74175,
+    "end": 42.063916,
+    "scene": "promise"
+  },
+  {
+    "text": "Here's",
+    "start": 45.477554851882616,
+    "end": 45.6433796234773,
+    "scene": "identity"
+  },
+  {
+    "text": "the",
+    "start": 45.65612273671096,
+    "end": 45.75814979235881,
+    "scene": "identity"
+  },
+  {
+    "text": "onboarding",
+    "start": 45.77089389534884,
+    "end": 46.37035567552603,
+    "scene": "identity"
+  },
+  {
+    "text": "illustrated",
+    "start": 46.587195459579185,
+    "end": 47.18665723975637,
+    "scene": "identity"
+  },
+  {
+    "text": "An",
+    "start": 47.59480802187154,
+    "end": 47.68409196428571,
+    "scene": "identity"
+  },
+  {
+    "text": "identity",
+    "start": 47.69683606727575,
+    "end": 48.18152767857143,
+    "scene": "identity"
+  },
+  {
+    "text": "check",
+    "start": 48.194270791805096,
+    "end": 48.436595812569216,
+    "scene": "identity"
+  },
+  {
+    "text": "confirms",
+    "start": 48.449380495570324,
+    "end": 48.98508612956811,
+    "scene": "identity"
+  },
+  {
+    "text": "an",
+    "start": 48.99782924280177,
+    "end": 49.07437007198228,
+    "scene": "identity"
+  },
+  {
+    "text": "adult",
+    "start": 49.08711318521595,
+    "end": 49.48252085409745,
+    "scene": "identity"
+  },
+  {
+    "text": "with",
+    "start": 49.77585989756368,
+    "end": 49.90341474944629,
+    "scene": "identity"
+  },
+  {
+    "text": "a",
+    "start": 49.91615786267996,
+    "end": 49.95442768341639,
+    "scene": "identity"
+  },
+  {
+    "text": "live",
+    "start": 49.96717188538206,
+    "end": 50.31156553156146,
+    "scene": "identity"
+  },
+  {
+    "text": "selfie",
+    "start": 50.32430864479513,
+    "end": 50.88550050526025,
+    "scene": "identity"
+  },
+  {
+    "text": "and",
+    "start": 51.05128469684386,
+    "end": 51.19158266196013,
+    "scene": "identity"
+  },
+  {
+    "text": "a",
+    "start": 51.20436734496124,
+    "end": 51.25538027893134,
+    "scene": "identity"
+  },
+  {
+    "text": "face",
+    "start": 51.268124480897015,
+    "end": 51.599733444075305,
+    "scene": "identity"
+  },
+  {
+    "text": "match",
+    "start": 51.61251812707641,
+    "end": 52.10995285160576,
+    "scene": "identity"
+  },
+  {
+    "text": "Three",
+    "start": 53.517541,
+    "end": 53.697957,
+    "scene": "protect"
+  },
+  {
+    "text": "reference",
+    "start": 53.710833,
+    "end": 54.110333000000004,
+    "scene": "protect"
+  },
+  {
+    "text": "photos",
+    "start": 54.123208,
+    "end": 54.574249,
+    "scene": "protect"
+  },
+  {
+    "text": "are",
+    "start": 54.587125,
+    "end": 54.74175,
+    "scene": "protect"
+  },
+  {
+    "text": "matched",
+    "start": 54.754625000000004,
+    "end": 55.30875,
+    "scene": "protect"
+  },
+  {
+    "text": "then",
+    "start": 55.59225,
+    "end": 55.695333,
+    "scene": "protect"
+  },
+  {
+    "text": "encrypted",
+    "start": 55.70825,
+    "end": 56.262375,
+    "scene": "protect"
+  },
+  {
+    "text": "in",
+    "start": 56.27525,
+    "end": 56.417,
+    "scene": "protect"
+  },
+  {
+    "text": "the",
+    "start": 56.429916,
+    "end": 56.520124,
+    "scene": "protect"
+  },
+  {
+    "text": "browser",
+    "start": 56.533,
+    "end": 57.009791,
+    "scene": "protect"
+  },
+  {
+    "text": "with",
+    "start": 57.022666,
+    "end": 57.177291000000004,
+    "scene": "protect"
+  },
+  {
+    "text": "a",
+    "start": 57.190208,
+    "end": 57.241748900000005,
+    "scene": "protect"
+  },
+  {
+    "text": "key",
+    "start": 57.254625000000004,
+    "end": 57.628333,
+    "scene": "protect"
+  },
+  {
+    "text": "derived",
+    "start": 57.64125,
+    "end": 58.246916,
+    "scene": "protect"
+  },
+  {
+    "text": "from",
+    "start": 58.259791,
+    "end": 58.414416,
+    "scene": "protect"
+  },
+  {
+    "text": "your",
+    "start": 58.427333000000004,
+    "end": 58.543333000000004,
+    "scene": "protect"
+  },
+  {
+    "text": "passkey",
+    "start": 58.556166000000005,
+    "end": 59.084499,
+    "scene": "protect"
+  },
+  {
+    "text": "I've",
+    "start": 60.466,
+    "end": 60.582,
+    "scene": "dashboard"
+  },
+  {
+    "text": "already",
+    "start": 60.594833,
+    "end": 60.904124,
+    "scene": "dashboard"
+  },
+  {
+    "text": "completed",
+    "start": 60.917,
+    "end": 61.393791,
+    "scene": "dashboard"
+  },
+  {
+    "text": "registration",
+    "start": 61.406708,
+    "end": 62.115458000000004,
+    "scene": "dashboard"
+  },
+  {
+    "text": "so",
+    "start": 62.502041,
+    "end": 62.605124,
+    "scene": "dashboard"
+  },
+  {
+    "text": "let's",
+    "start": 62.618041000000005,
+    "end": 62.837124,
+    "scene": "dashboard"
+  },
+  {
+    "text": "move",
+    "start": 62.85,
+    "end": 63.081958,
+    "scene": "dashboard"
+  },
+  {
+    "text": "into",
+    "start": 63.094833,
+    "end": 63.262374,
+    "scene": "dashboard"
+  },
+  {
+    "text": "my",
+    "start": 63.27525,
+    "end": 63.442791,
+    "scene": "dashboard"
+  },
+  {
+    "text": "actual",
+    "start": 63.455666,
+    "end": 63.919582,
+    "scene": "dashboard"
+  },
+  {
+    "text": "account",
+    "start": 63.932458000000004,
+    "end": 64.370583,
+    "scene": "dashboard"
+  },
+  {
+    "text": "This",
+    "start": 64.80875,
+    "end": 64.989166,
+    "scene": "dashboard"
+  },
+  {
+    "text": "is",
+    "start": 65.002041,
+    "end": 65.105124,
+    "scene": "dashboard"
+  },
+  {
+    "text": "the",
+    "start": 65.118041,
+    "end": 65.208249,
+    "scene": "dashboard"
+  },
+  {
+    "text": "creator",
+    "start": 65.221125,
+    "end": 65.65925,
+    "scene": "dashboard"
+  },
+  {
+    "text": "dashboard",
+    "start": 65.672166,
+    "end": 66.31649900000001,
+    "scene": "dashboard"
+  },
+  {
+    "text": "running",
+    "start": 66.329375,
+    "end": 66.587125,
+    "scene": "dashboard"
+  },
+  {
+    "text": "locally",
+    "start": 66.6,
+    "end": 67.076791,
+    "scene": "dashboard"
+  },
+  {
+    "text": "You",
+    "start": 67.502041,
+    "end": 67.579374,
+    "scene": "dashboard"
+  },
+  {
+    "text": "can",
+    "start": 67.59225,
+    "end": 67.70825,
+    "scene": "dashboard"
+  },
+  {
+    "text": "see",
+    "start": 67.721125,
+    "end": 67.914416,
+    "scene": "dashboard"
+  },
+  {
+    "text": "my",
+    "start": 67.927333,
+    "end": 68.056208,
+    "scene": "dashboard"
+  },
+  {
+    "text": "verification",
+    "start": 68.069083,
+    "end": 68.868041,
+    "scene": "dashboard"
+  },
+  {
+    "text": "my",
+    "start": 69.074208,
+    "end": 69.164416,
+    "scene": "dashboard"
+  },
+  {
+    "text": "licence",
+    "start": 69.177333,
+    "end": 69.62837400000001,
+    "scene": "dashboard"
+  },
+  {
+    "text": "settings",
+    "start": 69.64125,
+    "end": 70.20825,
+    "scene": "dashboard"
+  },
+  {
+    "text": "and",
+    "start": 70.414416,
+    "end": 70.504624,
+    "scene": "dashboard"
+  },
+  {
+    "text": "the",
+    "start": 70.517541,
+    "end": 70.607749,
+    "scene": "dashboard"
+  },
+  {
+    "text": "controls",
+    "start": 70.620625,
+    "end": 71.136083,
+    "scene": "dashboard"
+  },
+  {
+    "text": "that",
+    "start": 71.14895800000001,
+    "end": 71.26495800000001,
+    "scene": "dashboard"
+  },
+  {
+    "text": "stay",
+    "start": 71.277833,
+    "end": 71.548458,
+    "scene": "dashboard"
+  },
+  {
+    "text": "with",
+    "start": 71.561333,
+    "end": 71.741749,
+    "scene": "dashboard"
+  },
+  {
+    "text": "me",
+    "start": 71.754625,
+    "end": 71.947916,
+    "scene": "dashboard"
+  },
+  {
+    "text": "My",
+    "start": 75.45308299999999,
+    "end": 75.60770799999999,
+    "scene": "terms"
+  },
+  {
+    "text": "starting",
+    "start": 75.62062499999999,
+    "end": 75.994333,
+    "scene": "terms"
+  },
+  {
+    "text": "terms",
+    "start": 76.00720799999999,
+    "end": 76.342249,
+    "scene": "terms"
+  },
+  {
+    "text": "allow",
+    "start": 76.355166,
+    "end": 76.715999,
+    "scene": "terms"
+  },
+  {
+    "text": "advertising",
+    "start": 76.72887499999999,
+    "end": 77.553625,
+    "scene": "terms"
+  },
+  {
+    "text": "and",
+    "start": 77.56649999999999,
+    "end": 77.643833,
+    "scene": "terms"
+  },
+  {
+    "text": "social",
+    "start": 77.656708,
+    "end": 78.107749,
+    "scene": "terms"
+  },
+  {
+    "text": "use",
+    "start": 78.12062499999999,
+    "end": 78.50720799999999,
+    "scene": "terms"
+  },
+  {
+    "text": "worldwide",
+    "start": 78.764958,
+    "end": 79.37062399999999,
+    "scene": "terms"
+  },
+  {
+    "text": "at",
+    "start": 79.75720799999999,
+    "end": 79.86029099999999,
+    "scene": "terms"
+  },
+  {
+    "text": "two",
+    "start": 79.87320799999999,
+    "end": 80.04074899999999,
+    "scene": "terms"
+  },
+  {
+    "text": "USDC",
+    "start": 80.053625,
+    "end": 80.697958,
+    "scene": "terms"
+  },
+  {
+    "text": "per",
+    "start": 80.710833,
+    "end": 80.86545799999999,
+    "scene": "terms"
+  },
+  {
+    "text": "render",
+    "start": 80.878333,
+    "end": 81.27783299999999,
+    "scene": "terms"
+  },
+  {
+    "text": "Each",
+    "start": 81.70308299999999,
+    "end": 81.896374,
+    "scene": "terms"
+  },
+  {
+    "text": "licence",
+    "start": 81.909291,
+    "end": 82.347416,
+    "scene": "terms"
+  },
+  {
+    "text": "can",
+    "start": 82.36029099999999,
+    "end": 82.540707,
+    "scene": "terms"
+  },
+  {
+    "text": "last",
+    "start": 82.553625,
+    "end": 82.888666,
+    "scene": "terms"
+  },
+  {
+    "text": "thirty",
+    "start": 82.901541,
+    "end": 83.185041,
+    "scene": "terms"
+  },
+  {
+    "text": "days",
+    "start": 83.19791599999999,
+    "end": 83.648957,
+    "scene": "terms"
+  },
+  {
+    "text": "with",
+    "start": 83.893833,
+    "end": 84.08712399999999,
+    "scene": "terms"
+  },
+  {
+    "text": "up",
+    "start": 84.1,
+    "end": 84.293291,
+    "scene": "terms"
+  },
+  {
+    "text": "to",
+    "start": 84.30616599999999,
+    "end": 84.44791599999999,
+    "scene": "terms"
+  },
+  {
+    "text": "a",
+    "start": 84.460833,
+    "end": 84.52524899999999,
+    "scene": "terms"
+  },
+  {
+    "text": "hundred",
+    "start": 84.538125,
+    "end": 84.873166,
+    "scene": "terms"
+  },
+  {
+    "text": "renders",
+    "start": 84.886083,
+    "end": 85.440208,
+    "scene": "terms"
+  },
+  {
+    "text": "And",
+    "start": 85.86545799999999,
+    "end": 86.00720799999999,
+    "scene": "terms"
+  },
+  {
+    "text": "every",
+    "start": 86.020083,
+    "end": 86.264916,
+    "scene": "terms"
+  },
+  {
+    "text": "request",
+    "start": 86.27783299999999,
+    "end": 86.87062399999999,
+    "scene": "terms"
+  },
+  {
+    "text": "needs",
+    "start": 86.8835,
+    "end": 87.154125,
+    "scene": "terms"
+  },
+  {
+    "text": "my",
+    "start": 87.167,
+    "end": 87.30874999999999,
+    "scene": "terms"
+  },
+  {
+    "text": "approval",
+    "start": 87.321666,
+    "end": 87.849999,
+    "scene": "terms"
+  },
+  {
+    "text": "Now",
+    "start": 90.45308299999999,
+    "end": 90.646374,
+    "scene": "request"
+  },
+  {
+    "text": "follow",
+    "start": 90.659291,
+    "end": 90.98145699999999,
+    "scene": "request"
+  },
+  {
+    "text": "an",
+    "start": 90.994333,
+    "end": 91.05874899999999,
+    "scene": "request"
+  },
+  {
+    "text": "example",
+    "start": 91.071666,
+    "end": 91.53558199999999,
+    "scene": "request"
+  },
+  {
+    "text": "brand",
+    "start": 91.548458,
+    "end": 91.81908299999999,
+    "scene": "request"
+  },
+  {
+    "text": "request",
+    "start": 91.831958,
+    "end": 92.398958,
+    "scene": "request"
+  },
+  {
+    "text": "A",
+    "start": 92.824208,
+    "end": 92.888624,
+    "scene": "request"
+  },
+  {
+    "text": "coffee",
+    "start": 92.901541,
+    "end": 93.288124,
+    "scene": "request"
+  },
+  {
+    "text": "brand",
+    "start": 93.301041,
+    "end": 93.661874,
+    "scene": "request"
+  },
+  {
+    "text": "asks",
+    "start": 93.67474999999999,
+    "end": 94.00979099999999,
+    "scene": "request"
+  },
+  {
+    "text": "for",
+    "start": 94.022666,
+    "end": 94.16441599999999,
+    "scene": "request"
+  },
+  {
+    "text": "five",
+    "start": 94.17733299999999,
+    "end": 94.576833,
+    "scene": "request"
+  },
+  {
+    "text": "images",
+    "start": 94.589708,
+    "end": 95.04074899999999,
+    "scene": "request"
+  },
+  {
+    "text": "for",
+    "start": 95.053625,
+    "end": 95.221166,
+    "scene": "request"
+  },
+  {
+    "text": "a",
+    "start": 95.234,
+    "end": 95.2855409,
+    "scene": "request"
+  },
+  {
+    "text": "social",
+    "start": 95.298458,
+    "end": 95.67216599999999,
+    "scene": "request"
+  },
+  {
+    "text": "campaign",
+    "start": 95.685041,
+    "end": 96.22629099999999,
+    "scene": "request"
+  },
+  {
+    "text": "The",
+    "start": 96.66441599999999,
+    "end": 96.7159569,
+    "scene": "request"
+  },
+  {
+    "text": "request",
+    "start": 96.72887499999999,
+    "end": 97.192791,
+    "scene": "request"
+  },
+  {
+    "text": "spells",
+    "start": 97.205666,
+    "end": 97.61804099999999,
+    "scene": "request"
+  },
+  {
+    "text": "out",
+    "start": 97.630916,
+    "end": 97.785541,
+    "scene": "request"
+  },
+  {
+    "text": "the",
+    "start": 97.798458,
+    "end": 97.86287399999999,
+    "scene": "request"
+  },
+  {
+    "text": "use",
+    "start": 97.87579099999999,
+    "end": 98.39124899999999,
+    "scene": "request"
+  },
+  {
+    "text": "the",
+    "start": 98.597416,
+    "end": 98.687624,
+    "scene": "request"
+  },
+  {
+    "text": "duration",
+    "start": 98.70049999999999,
+    "end": 99.319041,
+    "scene": "request"
+  },
+  {
+    "text": "and",
+    "start": 99.61545799999999,
+    "end": 99.679874,
+    "scene": "request"
+  },
+  {
+    "text": "the",
+    "start": 99.692791,
+    "end": 99.770124,
+    "scene": "request"
+  },
+  {
+    "text": "price",
+    "start": 99.78299999999999,
+    "end": 100.33712499999999,
+    "scene": "request"
+  },
+  {
+    "text": "before",
+    "start": 100.55616599999999,
+    "end": 100.891207,
+    "scene": "request"
+  },
+  {
+    "text": "the",
+    "start": 100.904125,
+    "end": 100.98145799999999,
+    "scene": "request"
+  },
+  {
+    "text": "creator",
+    "start": 100.994333,
+    "end": 101.41958299999999,
+    "scene": "request"
+  },
+  {
+    "text": "decides",
+    "start": 101.432458,
+    "end": 101.94791599999999,
+    "scene": "request"
+  },
+  {
+    "text": "whether",
+    "start": 101.960833,
+    "end": 102.25720799999999,
+    "scene": "request"
+  },
+  {
+    "text": "to",
+    "start": 102.270083,
+    "end": 102.411833,
+    "scene": "request"
+  },
+  {
+    "text": "approve",
+    "start": 102.42474999999999,
+    "end": 102.914458,
+    "scene": "request"
+  },
+  {
+    "text": "Approval",
+    "start": 105.45308299999999,
+    "end": 105.904124,
+    "scene": "approve"
+  },
+  {
+    "text": "signs",
+    "start": 105.91699999999999,
+    "end": 106.30358299999999,
+    "scene": "approve"
+  },
+  {
+    "text": "that",
+    "start": 106.31649999999999,
+    "end": 106.445375,
+    "scene": "approve"
+  },
+  {
+    "text": "specific",
+    "start": 106.45824999999999,
+    "end": 107.08970799999999,
+    "scene": "approve"
+  },
+  {
+    "text": "agreement",
+    "start": 107.102583,
+    "end": 107.605166,
+    "scene": "approve"
+  },
+  {
+    "text": "The",
+    "start": 108.043291,
+    "end": 108.12062399999999,
+    "scene": "approve"
+  },
+  {
+    "text": "brand",
+    "start": 108.1335,
+    "end": 108.520083,
+    "scene": "approve"
+  },
+  {
+    "text": "issues",
+    "start": 108.61029099999999,
+    "end": 108.97112399999999,
+    "scene": "approve"
+  },
+  {
+    "text": "the",
+    "start": 108.984,
+    "end": 109.08708299999999,
+    "scene": "approve"
+  },
+  {
+    "text": "licence",
+    "start": 109.1,
+    "end": 109.75720799999999,
+    "scene": "approve"
+  },
+  {
+    "text": "and",
+    "start": 110.02783299999999,
+    "end": 110.11804099999999,
+    "scene": "approve"
+  },
+  {
+    "text": "the",
+    "start": 110.130916,
+    "end": 110.208249,
+    "scene": "approve"
+  },
+  {
+    "text": "creator",
+    "start": 110.221125,
+    "end": 110.710833,
+    "scene": "approve"
+  },
+  {
+    "text": "releases",
+    "start": 110.72370799999999,
+    "end": 111.213416,
+    "scene": "approve"
+  },
+  {
+    "text": "the",
+    "start": 111.22629099999999,
+    "end": 111.329374,
+    "scene": "approve"
+  },
+  {
+    "text": "reference",
+    "start": 111.34224999999999,
+    "end": 111.80616599999999,
+    "scene": "approve"
+  },
+  {
+    "text": "photos",
+    "start": 111.81908299999999,
+    "end": 112.347416,
+    "scene": "approve"
+  },
+  {
+    "text": "to",
+    "start": 112.36029099999999,
+    "end": 112.46337399999999,
+    "scene": "approve"
+  },
+  {
+    "text": "the",
+    "start": 112.47629099999999,
+    "end": 112.579374,
+    "scene": "approve"
+  },
+  {
+    "text": "renderer",
+    "start": 112.59224999999999,
+    "end": 113.081958,
+    "scene": "approve"
+  },
+  {
+    "text": "for",
+    "start": 113.19791599999999,
+    "end": 113.326791,
+    "scene": "approve"
+  },
+  {
+    "text": "that",
+    "start": 113.339708,
+    "end": 113.545874,
+    "scene": "approve"
+  },
+  {
+    "text": "licence",
+    "start": 113.55874999999999,
+    "end": 114.138666,
+    "scene": "approve"
+  },
+  {
+    "text": "Having",
+    "start": 114.56391599999999,
+    "end": 114.78299899999999,
+    "scene": "approve"
+  },
+  {
+    "text": "an",
+    "start": 114.795875,
+    "end": 114.86029099999999,
+    "scene": "approve"
+  },
+  {
+    "text": "account",
+    "start": 114.87320799999999,
+    "end": 115.208249,
+    "scene": "approve"
+  },
+  {
+    "text": "alone",
+    "start": 115.221125,
+    "end": 115.64637499999999,
+    "scene": "approve"
+  },
+  {
+    "text": "does",
+    "start": 115.72370799999999,
+    "end": 115.89124899999999,
+    "scene": "approve"
+  },
+  {
+    "text": "not",
+    "start": 115.904125,
+    "end": 116.22629099999999,
+    "scene": "approve"
+  },
+  {
+    "text": "grant",
+    "start": 116.239166,
+    "end": 116.548457,
+    "scene": "approve"
+  },
+  {
+    "text": "access",
+    "start": 116.56133299999999,
+    "end": 117.038124,
+    "scene": "approve"
+  },
+  {
+    "text": "to",
+    "start": 117.051041,
+    "end": 117.128374,
+    "scene": "approve"
+  },
+  {
+    "text": "somebody's",
+    "start": 117.14125,
+    "end": 117.59229099999999,
+    "scene": "approve"
+  },
+  {
+    "text": "face",
+    "start": 117.605166,
+    "end": 118.14641599999999,
+    "scene": "approve"
+  },
+  {
+    "text": "The",
+    "start": 120.45960202991452,
+    "end": 120.52046517094017,
+    "scene": "escrow"
+  },
+  {
+    "text": "brand",
+    "start": 120.5326300514156,
+    "end": 120.82486213274572,
+    "scene": "escrow"
+  },
+  {
+    "text": "deposits",
+    "start": 120.83702795806623,
+    "end": 121.44582282652243,
+    "scene": "escrow"
+  },
+  {
+    "text": "ten",
+    "start": 121.45798770699786,
+    "end": 121.68931696380875,
+    "scene": "escrow"
+  },
+  {
+    "text": "USDC",
+    "start": 121.70152152777777,
+    "end": 122.50511227297008,
+    "scene": "escrow"
+  },
+  {
+    "text": "into",
+    "start": 122.5173168369391,
+    "end": 122.72431633279913,
+    "scene": "escrow"
+  },
+  {
+    "text": "escrow",
+    "start": 122.73648121327457,
+    "end": 123.24787861578525,
+    "scene": "escrow"
+  },
+  {
+    "text": "Each",
+    "start": 123.6496352497329,
+    "end": 123.90533395098824,
+    "scene": "escrow"
+  },
+  {
+    "text": "two",
+    "start": 123.91753757011217,
+    "end": 124.19756603231836,
+    "scene": "escrow"
+  },
+  {
+    "text": "USDC",
+    "start": 124.2097309127938,
+    "end": 124.90375836672008,
+    "scene": "escrow"
+  },
+  {
+    "text": "render",
+    "start": 124.91592419204059,
+    "end": 125.24469059829059,
+    "scene": "escrow"
+  },
+  {
+    "text": "pays",
+    "start": 125.25685547876601,
+    "end": 125.573417321047,
+    "scene": "escrow"
+  },
+  {
+    "text": "one",
+    "start": 125.58562282986111,
+    "end": 125.89001979166666,
+    "scene": "escrow"
+  },
+  {
+    "text": "eighty",
+    "start": 125.98741820245726,
+    "end": 126.26744666466345,
+    "scene": "escrow"
+  },
+  {
+    "text": "to",
+    "start": 126.27965028378739,
+    "end": 126.3770477497329,
+    "scene": "escrow"
+  },
+  {
+    "text": "the",
+    "start": 126.38921357505342,
+    "end": 126.4744461605235,
+    "scene": "escrow"
+  },
+  {
+    "text": "creator",
+    "start": 126.48661104099892,
+    "end": 127.04670670405983,
+    "scene": "escrow"
+  },
+  {
+    "text": "and",
+    "start": 127.131940234375,
+    "end": 127.19280337540063,
+    "scene": "escrow"
+  },
+  {
+    "text": "twenty",
+    "start": 127.20500793936965,
+    "end": 127.54593922609507,
+    "scene": "escrow"
+  },
+  {
+    "text": "cents",
+    "start": 127.5581050514156,
+    "end": 127.91120121861644,
+    "scene": "escrow"
+  },
+  {
+    "text": "to",
+    "start": 127.92336609909188,
+    "end": 128.00859868456195,
+    "scene": "escrow"
+  },
+  {
+    "text": "the",
+    "start": 128.02076356503738,
+    "end": 128.10599615050748,
+    "scene": "escrow"
+  },
+  {
+    "text": "platform",
+    "start": 128.1182007144765,
+    "end": 128.62959811698718,
+    "scene": "escrow"
+  },
+  {
+    "text": "The",
+    "start": 129.0313547509348,
+    "end": 129.10442245592947,
+    "scene": "escrow"
+  },
+  {
+    "text": "remaining",
+    "start": 129.1165873364049,
+    "end": 129.55491608907585,
+    "scene": "escrow"
+  },
+  {
+    "text": "balance",
+    "start": 129.56712065304487,
+    "end": 129.96891602564102,
+    "scene": "escrow"
+  },
+  {
+    "text": "stays",
+    "start": 129.98108090611646,
+    "end": 130.285477867922,
+    "scene": "escrow"
+  },
+  {
+    "text": "available",
+    "start": 130.29764369324252,
+    "end": 130.78467165130874,
+    "scene": "escrow"
+  },
+  {
+    "text": "for",
+    "start": 130.79687621527776,
+    "end": 130.9064782451923,
+    "scene": "escrow"
+  },
+  {
+    "text": "the",
+    "start": 130.91864312566773,
+    "end": 131.00387571113782,
+    "scene": "escrow"
+  },
+  {
+    "text": "licence",
+    "start": 131.01604059161323,
+    "end": 131.5639713741987,
+    "scene": "escrow"
+  },
+  {
+    "text": "rather",
+    "start": 131.8561656617254,
+    "end": 132.1240292434562,
+    "scene": "escrow"
+  },
+  {
+    "text": "than",
+    "start": 132.13619412393163,
+    "end": 132.25796103432157,
+    "scene": "escrow"
+  },
+  {
+    "text": "becoming",
+    "start": 132.270125914797,
+    "end": 132.7815233173077,
+    "scene": "escrow"
+  },
+  {
+    "text": "an",
+    "start": 132.85459102230234,
+    "end": 132.9763579326923,
+    "scene": "escrow"
+  },
+  {
+    "text": "unlimited",
+    "start": 132.98852281316772,
+    "end": 133.59731768162393,
+    "scene": "escrow"
+  },
+  {
+    "text": "buyout",
+    "start": 133.60948350694443,
+    "end": 134.145210670406,
+    "scene": "escrow"
+  },
+  {
+    "text": "Before",
+    "start": 135.4608454889249,
+    "end": 135.7809987945705,
+    "scene": "render"
+  },
+  {
+    "text": "rendering",
+    "start": 135.7933016882766,
+    "end": 136.27355219138303,
+    "scene": "render"
+  },
+  {
+    "text": "the",
+    "start": 136.4952039910859,
+    "end": 136.56910066518097,
+    "scene": "render"
+  },
+  {
+    "text": "service",
+    "start": 136.58140355888708,
+    "end": 137.0124023534576,
+    "scene": "render"
+  },
+  {
+    "text": "checks",
+    "start": 137.02470620272825,
+    "end": 137.33255661466774,
+    "scene": "render"
+  },
+  {
+    "text": "the",
+    "start": 137.3448604639384,
+    "end": 137.4433629254457,
+    "scene": "render"
+  },
+  {
+    "text": "licence",
+    "start": 137.4557059528633,
+    "end": 138.07140773230685,
+    "scene": "render"
+  },
+  {
+    "text": "its",
+    "start": 138.2561107171799,
+    "end": 138.41620695907616,
+    "scene": "render"
+  },
+  {
+    "text": "limits",
+    "start": 138.42850985278227,
+    "end": 138.95801206442462,
+    "scene": "render"
+  },
+  {
+    "text": "the",
+    "start": 139.1796638641275,
+    "end": 139.2781663256348,
+    "scene": "render"
+  },
+  {
+    "text": "available",
+    "start": 139.29046921934088,
+    "end": 139.77071972244732,
+    "scene": "render"
+  },
+  {
+    "text": "funds",
+    "start": 139.78302261615343,
+    "end": 140.36177558076716,
+    "scene": "render"
+  },
+  {
+    "text": "and",
+    "start": 140.55882159305781,
+    "end": 140.6573240545651,
+    "scene": "render"
+  },
+  {
+    "text": "the",
+    "start": 140.66962790383576,
+    "end": 140.74352457793086,
+    "scene": "render"
+  },
+  {
+    "text": "prompt",
+    "start": 140.75582747163693,
+    "end": 141.21143205361966,
+    "scene": "render"
+  },
+  {
+    "text": "This",
+    "start": 141.61782601634252,
+    "end": 141.82717396677472,
+    "scene": "render"
+  },
+  {
+    "text": "local",
+    "start": 141.8394778160454,
+    "end": 142.14732822798487,
+    "scene": "render"
+  },
+  {
+    "text": "setup",
+    "start": 142.15963112169098,
+    "end": 142.54137916329012,
+    "scene": "render"
+  },
+  {
+    "text": "uses",
+    "start": 142.67683043962722,
+    "end": 142.9846808515667,
+    "scene": "render"
+  },
+  {
+    "text": "a",
+    "start": 142.99698470083737,
+    "end": 143.08318426863858,
+    "scene": "render"
+  },
+  {
+    "text": "clearly",
+    "start": 143.09548716234468,
+    "end": 143.53878885062127,
+    "scene": "render"
+  },
+  {
+    "text": "marked",
+    "start": 143.55109269989194,
+    "end": 143.89589192666125,
+    "scene": "render"
+  },
+  {
+    "text": "test",
+    "start": 143.90819482036736,
+    "end": 144.25299404713667,
+    "scene": "render"
+  },
+  {
+    "text": "renderer",
+    "start": 144.26533707455428,
+    "end": 144.73328468395462,
+    "scene": "render"
+  },
+  {
+    "text": "The",
+    "start": 145.1519423622366,
+    "end": 145.2258390363317,
+    "scene": "render"
+  },
+  {
+    "text": "generated",
+    "start": 145.2381017963263,
+    "end": 145.74295808684494,
+    "scene": "render"
+  },
+  {
+    "text": "image",
+    "start": 145.75530111426255,
+    "end": 146.0262036669368,
+    "scene": "render"
+  },
+  {
+    "text": "integration",
+    "start": 146.0385466943544,
+    "end": 146.66655136750404,
+    "scene": "render"
+  },
+  {
+    "text": "is",
+    "start": 146.77735767828202,
+    "end": 146.8758601397893,
+    "scene": "render"
+  },
+  {
+    "text": "separate",
+    "start": 146.8882031672069,
+    "end": 147.3315048554835,
+    "scene": "render"
+  },
+  {
+    "text": "from",
+    "start": 147.34380774918964,
+    "end": 147.49156191923285,
+    "scene": "render"
+  },
+  {
+    "text": "the",
+    "start": 147.50390494665047,
+    "end": 147.57780162074553,
+    "scene": "render"
+  },
+  {
+    "text": "consent",
+    "start": 147.59010451445164,
+    "end": 148.15655458535926,
+    "scene": "render"
+  },
+  {
+    "text": "and",
+    "start": 148.31661260467314,
+    "end": 148.40281217247434,
+    "scene": "render"
+  },
+  {
+    "text": "payment",
+    "start": 148.41511506618045,
+    "end": 148.77221718665587,
+    "scene": "render"
+  },
+  {
+    "text": "flow",
+    "start": 148.78456021407348,
+    "end": 149.1293594408428,
+    "scene": "render"
+  },
+  {
+    "text": "A",
+    "start": 150.46417640511964,
+    "end": 150.5275797440178,
+    "scene": "revoke"
+  },
+  {
+    "text": "paid",
+    "start": 150.54025234070673,
+    "end": 150.76856381121314,
+    "scene": "revoke"
+  },
+  {
+    "text": "output",
+    "start": 150.7812373921814,
+    "end": 151.18712959098497,
+    "scene": "revoke"
+  },
+  {
+    "text": "gets",
+    "start": 151.19984254312743,
+    "end": 151.39009488383417,
+    "scene": "revoke"
+  },
+  {
+    "text": "a",
+    "start": 151.40276846480245,
+    "end": 151.45349910858374,
+    "scene": "revoke"
+  },
+  {
+    "text": "receipt",
+    "start": 151.46617278797996,
+    "end": 151.99891398859208,
+    "scene": "revoke"
+  },
+  {
+    "text": "and",
+    "start": 152.16382113592098,
+    "end": 152.23993841124096,
+    "scene": "revoke"
+  },
+  {
+    "text": "a",
+    "start": 152.25261199220924,
+    "end": 152.30334263599053,
+    "scene": "revoke"
+  },
+  {
+    "text": "content",
+    "start": 152.3160153311074,
+    "end": 152.81069740191987,
+    "scene": "revoke"
+  },
+  {
+    "text": "credential",
+    "start": 152.82337098288815,
+    "end": 153.35611218350027,
+    "scene": "revoke"
+  },
+  {
+    "text": "The",
+    "start": 153.78734957568167,
+    "end": 153.838080219463,
+    "scene": "revoke"
+  },
+  {
+    "text": "verifier",
+    "start": 153.85079425431275,
+    "end": 154.40888064830273,
+    "scene": "revoke"
+  },
+  {
+    "text": "connects",
+    "start": 154.42155324499166,
+    "end": 154.80205891068448,
+    "scene": "revoke"
+  },
+  {
+    "text": "it",
+    "start": 154.81477284710627,
+    "end": 154.9162353158041,
+    "scene": "revoke"
+  },
+  {
+    "text": "back",
+    "start": 154.92890791249303,
+    "end": 155.23333665831942,
+    "scene": "revoke"
+  },
+  {
+    "text": "to",
+    "start": 155.2460102392877,
+    "end": 155.37285924109628,
+    "scene": "revoke"
+  },
+  {
+    "text": "its",
+    "start": 155.38553183778518,
+    "end": 155.51238083959376,
+    "scene": "revoke"
+  },
+  {
+    "text": "licence",
+    "start": 155.52509477601558,
+    "end": 156.10856671883695,
+    "scene": "revoke"
+  },
+  {
+    "text": "Revoke",
+    "start": 156.52713151432943,
+    "end": 156.84423285684474,
+    "scene": "revoke"
+  },
+  {
+    "text": "that",
+    "start": 156.85690643781302,
+    "end": 157.04715877851976,
+    "scene": "revoke"
+  },
+  {
+    "text": "licence",
+    "start": 157.05983235948804,
+    "end": 157.694036028798,
+    "scene": "revoke"
+  },
+  {
+    "text": "and",
+    "start": 157.88428935378408,
+    "end": 158.01113835559264,
+    "scene": "revoke"
+  },
+  {
+    "text": "future",
+    "start": 158.02381095228156,
+    "end": 158.42970315108514,
+    "scene": "revoke"
+  },
+  {
+    "text": "renders",
+    "start": 158.4424161032276,
+    "end": 158.8102491722315,
+    "scene": "revoke"
+  },
+  {
+    "text": "are",
+    "start": 158.82292275319978,
+    "end": 158.89904002851975,
+    "scene": "revoke"
+  },
+  {
+    "text": "refused",
+    "start": 158.91171262520868,
+    "end": 159.5205297614079,
+    "scene": "revoke"
+  },
+  {
+    "text": "Earlier",
+    "start": 159.93909554117974,
+    "end": 160.31960120687256,
+    "scene": "revoke"
+  },
+  {
+    "text": "files",
+    "start": 160.33231514329438,
+    "end": 160.73820734209792,
+    "scene": "revoke"
+  },
+  {
+    "text": "remain",
+    "start": 160.75087993878685,
+    "end": 161.10604041110184,
+    "scene": "revoke"
+  },
+  {
+    "text": "traceable",
+    "start": 161.11871300779075,
+    "end": 161.75291667710073,
+    "scene": "revoke"
+  },
+  {
+    "text": "as",
+    "start": 161.76558927378966,
+    "end": 161.87976567890928,
+    "scene": "revoke"
+  },
+  {
+    "text": "licensed",
+    "start": 161.8924382755982,
+    "end": 162.46323762173066,
+    "scene": "revoke"
+  },
+  {
+    "text": "when",
+    "start": 162.47591120269894,
+    "end": 162.62810539788535,
+    "scene": "revoke"
+  },
+  {
+    "text": "made",
+    "start": 162.64081933430717,
+    "end": 163.00865240331106,
+    "scene": "revoke"
+  },
+  {
+    "text": "since",
+    "start": 163.37648547231495,
+    "end": 163.64285607262104,
+    "scene": "revoke"
+  },
+  {
+    "text": "revoked",
+    "start": 163.65552866930994,
+    "end": 164.11215161032274,
+    "scene": "revoke"
+  },
+  {
+    "text": "Under",
+    "start": 165.4360372842573,
+    "end": 165.60811185277197,
+    "scene": "architecture"
+  },
+  {
+    "text": "the",
+    "start": 165.61889290882146,
+    "end": 165.6834381908124,
+    "scene": "architecture"
+  },
+  {
+    "text": "hood",
+    "start": 165.69418502658647,
+    "end": 166.02762405203976,
+    "scene": "architecture"
+  },
+  {
+    "text": "React",
+    "start": 166.28573673945257,
+    "end": 166.71595905029636,
+    "scene": "architecture"
+  },
+  {
+    "text": "and",
+    "start": 166.8450504489191,
+    "end": 166.98488701403417,
+    "scene": "architecture"
+  },
+  {
+    "text": "Next",
+    "start": 166.99563301516736,
+    "end": 167.31829098457112,
+    "scene": "architecture"
+  },
+  {
+    "text": ".",
+    "start": 167.32903782034518,
+    "end": 167.53338544717573,
+    "scene": "architecture"
+  },
+  {
+    "text": "js",
+    "start": 167.54416650322523,
+    "end": 168.02818809492678,
+    "scene": "architecture"
+  },
+  {
+    "text": "connect",
+    "start": 168.03893409605996,
+    "end": 168.40461112491283,
+    "scene": "architecture"
+  },
+  {
+    "text": "Dynamic",
+    "start": 168.41535712604602,
+    "end": 168.80256037744073,
+    "scene": "architecture"
+  },
+  {
+    "text": "wallets",
+    "start": 168.8133422681311,
+    "end": 169.2543105801081,
+    "scene": "architecture"
+  },
+  {
+    "text": "Didit",
+    "start": 169.48018526412133,
+    "end": 169.69531394700138,
+    "scene": "architecture"
+  },
+  {
+    "text": "verification",
+    "start": 169.7060599481346,
+    "end": 170.38368400017433,
+    "scene": "architecture"
+  },
+  {
+    "text": "Mera",
+    "start": 170.65254268872036,
+    "end": 170.8461443144177,
+    "scene": "architecture"
+  },
+  {
+    "text": "passkey",
+    "start": 170.85692537046722,
+    "end": 171.21185639818688,
+    "scene": "architecture"
+  },
+  {
+    "text": "encryption",
+    "start": 171.22260239932007,
+    "end": 171.69584376961296,
+    "scene": "architecture"
+  },
+  {
+    "text": "and",
+    "start": 171.95399151194212,
+    "end": 172.01853679393304,
+    "scene": "architecture"
+  },
+  {
+    "text": "a",
+    "start": 172.02928279506625,
+    "end": 172.09382807705717,
+    "scene": "architecture"
+  },
+  {
+    "text": "Gemini",
+    "start": 172.10457407819038,
+    "end": 172.48103132845188,
+    "scene": "architecture"
+  },
+  {
+    "text": "render",
+    "start": 172.49177816422593,
+    "end": 172.70690684710598,
+    "scene": "architecture"
+  },
+  {
+    "text": "integration",
+    "start": 172.7176528482392,
+    "end": 173.2124204410739,
+    "scene": "architecture"
+  },
+  {
+    "text": "Monad",
+    "start": 173.56735230343443,
+    "end": 173.86851827057183,
+    "scene": "architecture"
+  },
+  {
+    "text": "contracts",
+    "start": 173.879264271705,
+    "end": 174.37403186453975,
+    "scene": "architecture"
+  },
+  {
+    "text": "hold",
+    "start": 174.3847787003138,
+    "end": 174.56763432487796,
+    "scene": "architecture"
+  },
+  {
+    "text": "licences",
+    "start": 174.57838032601114,
+    "end": 175.15918603774406,
+    "scene": "architecture"
+  },
+  {
+    "text": "escrow",
+    "start": 175.47109800601464,
+    "end": 175.92284737404114,
+    "scene": "architecture"
+  },
+  {
+    "text": "and",
+    "start": 176.08417677606346,
+    "end": 176.1809951163703,
+    "scene": "architecture"
+  },
+  {
+    "text": "receipts",
+    "start": 176.19174111750348,
+    "end": 176.7510197720537,
+    "scene": "architecture"
+  },
+  {
+    "text": "C2PA",
+    "start": 177.11669680090654,
+    "end": 177.815847910129,
+    "scene": "architecture"
+  },
+  {
+    "text": "carries",
+    "start": 177.8265939112622,
+    "end": 178.1277598783996,
+    "scene": "architecture"
+  },
+  {
+    "text": "provenance",
+    "start": 178.13850587953277,
+    "end": 178.6332734723675,
+    "scene": "architecture"
+  },
+  {
+    "text": "in",
+    "start": 178.64402030814156,
+    "end": 178.7408386484484,
+    "scene": "architecture"
+  },
+  {
+    "text": "the",
+    "start": 178.7515846495816,
+    "end": 178.805348875523,
+    "scene": "architecture"
+  },
+  {
+    "text": "file",
+    "start": 178.81609571129707,
+    "end": 179.17102673901672,
+    "scene": "architecture"
+  },
+  {
+    "text": "Reference",
+    "start": 179.52599198701185,
+    "end": 179.83790395528243,
+    "scene": "architecture"
+  },
+  {
+    "text": "photos",
+    "start": 179.84865079105649,
+    "end": 180.25738109963388,
+    "scene": "architecture"
+  },
+  {
+    "text": "stay",
+    "start": 180.2681271007671,
+    "end": 180.49400178478032,
+    "scene": "architecture"
+  },
+  {
+    "text": "encrypted",
+    "start": 180.50474778591354,
+    "end": 180.98876937761506,
+    "scene": "architecture"
+  },
+  {
+    "text": "in",
+    "start": 180.99951621338911,
+    "end": 181.08555349764643,
+    "scene": "architecture"
+  },
+  {
+    "text": "storage",
+    "start": 181.09629949877964,
+    "end": 181.5695408690725,
+    "scene": "architecture"
+  },
+  {
+    "text": "and",
+    "start": 181.75239649363667,
+    "end": 181.8276877767608,
+    "scene": "architecture"
+  },
+  {
+    "text": "are",
+    "start": 181.83846883281032,
+    "end": 181.92450611706764,
+    "scene": "architecture"
+  },
+  {
+    "text": "decrypted",
+    "start": 181.9352529528417,
+    "end": 182.4730396051255,
+    "scene": "architecture"
+  },
+  {
+    "text": "in",
+    "start": 182.48378560625872,
+    "end": 182.60209594883193,
+    "scene": "architecture"
+  },
+  {
+    "text": "memory",
+    "start": 182.61287700488145,
+    "end": 182.9785540337343,
+    "scene": "architecture"
+  },
+  {
+    "text": "for",
+    "start": 182.98930003486748,
+    "end": 183.20442871774756,
+    "scene": "architecture"
+  },
+  {
+    "text": "authorized",
+    "start": 183.26897399973848,
+    "end": 183.75299559144003,
+    "scene": "architecture"
+  },
+  {
+    "text": "rendering",
+    "start": 183.76370737229777,
+    "end": 184.18318368200838,
+    "scene": "architecture"
+  },
+  {
+    "text": "This",
+    "start": 185.43344032643313,
+    "end": 185.62119826167728,
+    "scene": "scope"
+  },
+  {
+    "text": "demo",
+    "start": 185.6316539012739,
+    "end": 185.89243052016985,
+    "scene": "scope"
+  },
+  {
+    "text": "runs",
+    "start": 185.90285297239913,
+    "end": 186.2262274416136,
+    "scene": "scope"
+  },
+  {
+    "text": "on",
+    "start": 186.2366490843949,
+    "end": 186.34096669320593,
+    "scene": "scope"
+  },
+  {
+    "text": "a",
+    "start": 186.35138833598725,
+    "end": 186.39310801353503,
+    "scene": "scope"
+  },
+  {
+    "text": "local",
+    "start": 186.40352973726115,
+    "end": 186.77904560774945,
+    "scene": "scope"
+  },
+  {
+    "text": "Monad",
+    "start": 186.78946805997876,
+    "end": 187.1232641719745,
+    "scene": "scope"
+  },
+  {
+    "text": "fork",
+    "start": 187.13371981157113,
+    "end": 187.49881403927813,
+    "scene": "scope"
+  },
+  {
+    "text": "with",
+    "start": 187.66569550159235,
+    "end": 187.79085639596602,
+    "scene": "scope"
+  },
+  {
+    "text": "test",
+    "start": 187.80127803874734,
+    "end": 188.02033489915073,
+    "scene": "scope"
+  },
+  {
+    "text": "credentials",
+    "start": 188.03079053874734,
+    "end": 188.56276622876857,
+    "scene": "scope"
+  },
+  {
+    "text": "The",
+    "start": 188.92782726910826,
+    "end": 188.96954694665604,
+    "scene": "scope"
+  },
+  {
+    "text": "next",
+    "start": 188.98000266719745,
+    "end": 189.20948117038216,
+    "scene": "scope"
+  },
+  {
+    "text": "milestone",
+    "start": 189.2199028131635,
+    "end": 189.7518785031847,
+    "scene": "scope"
+  },
+  {
+    "text": "is",
+    "start": 189.8248979962845,
+    "end": 189.91879396231423,
+    "scene": "scope"
+  },
+  {
+    "text": "proving",
+    "start": 189.92921560509555,
+    "end": 190.28385500265392,
+    "scene": "scope"
+  },
+  {
+    "text": "the",
+    "start": 190.29431064225054,
+    "end": 190.36732932590232,
+    "scene": "scope"
+  },
+  {
+    "text": "full",
+    "start": 190.37775096868364,
+    "end": 190.61765111464968,
+    "scene": "scope"
+  },
+  {
+    "text": "experience",
+    "start": 190.6281067542463,
+    "end": 191.20180301220807,
+    "scene": "scope"
+  },
+  {
+    "text": "with",
+    "start": 191.21222465498937,
+    "end": 191.31654226380041,
+    "scene": "scope"
+  },
+  {
+    "text": "production",
+    "start": 191.32696390658174,
+    "end": 191.71290141985136,
+    "scene": "scope"
+  },
+  {
+    "text": "services",
+    "start": 191.72335705944798,
+    "end": 192.27621003184714,
+    "scene": "scope"
+  },
+  {
+    "text": "and",
+    "start": 192.4639679670913,
+    "end": 192.5995836916136,
+    "scene": "scope"
+  },
+  {
+    "text": "independently",
+    "start": 192.6100061438429,
+    "end": 193.2045788747346,
+    "scene": "scope"
+  },
+  {
+    "text": "reviewed",
+    "start": 193.21500132696391,
+    "end": 193.52792015658173,
+    "scene": "scope"
+  },
+  {
+    "text": "contracts",
+    "start": 193.53834179936305,
+    "end": 194.19551238057323,
+    "scene": "scope"
+  },
+  {
+    "text": "AI",
+    "start": 195.453083,
+    "end": 195.749458,
+    "scene": "close"
+  },
+  {
+    "text": "is",
+    "start": 195.762375,
+    "end": 195.89124999999999,
+    "scene": "close"
+  },
+  {
+    "text": "changing",
+    "start": 195.904125,
+    "end": 196.329375,
+    "scene": "close"
+  },
+  {
+    "text": "what",
+    "start": 196.34225,
+    "end": 196.471125,
+    "scene": "close"
+  },
+  {
+    "text": "people",
+    "start": 196.48399999999998,
+    "end": 196.754625,
+    "scene": "close"
+  },
+  {
+    "text": "can",
+    "start": 196.767541,
+    "end": 196.883541,
+    "scene": "close"
+  },
+  {
+    "text": "create",
+    "start": 196.896375,
+    "end": 197.34741599999998,
+    "scene": "close"
+  },
+  {
+    "text": "The",
+    "start": 197.785583,
+    "end": 197.8371239,
+    "scene": "close"
+  },
+  {
+    "text": "people",
+    "start": 197.85,
+    "end": 198.210833,
+    "scene": "close"
+  },
+  {
+    "text": "in",
+    "start": 198.223708,
+    "end": 198.301041,
+    "scene": "close"
+  },
+  {
+    "text": "those",
+    "start": 198.313916,
+    "end": 198.520082,
+    "scene": "close"
+  },
+  {
+    "text": "images",
+    "start": 198.533,
+    "end": 198.996916,
+    "scene": "close"
+  },
+  {
+    "text": "should",
+    "start": 199.009791,
+    "end": 199.215957,
+    "scene": "close"
+  },
+  {
+    "text": "share",
+    "start": 199.228875,
+    "end": 199.628375,
+    "scene": "close"
+  },
+  {
+    "text": "in",
+    "start": 199.64124999999999,
+    "end": 199.74433299999998,
+    "scene": "close"
+  },
+  {
+    "text": "that",
+    "start": 199.757208,
+    "end": 199.950499,
+    "scene": "close"
+  },
+  {
+    "text": "value",
+    "start": 199.963416,
+    "end": 200.440207,
+    "scene": "close"
+  },
+  {
+    "text": "and",
+    "start": 200.736583,
+    "end": 200.839666,
+    "scene": "close"
+  },
+  {
+    "text": "keep",
+    "start": 200.85258299999998,
+    "end": 201.045874,
+    "scene": "close"
+  },
+  {
+    "text": "a",
+    "start": 201.05875,
+    "end": 201.1102909,
+    "scene": "close"
+  },
+  {
+    "text": "say",
+    "start": 201.123208,
+    "end": 201.47116599999998,
+    "scene": "close"
+  },
+  {
+    "text": "in",
+    "start": 201.48399999999998,
+    "end": 201.561333,
+    "scene": "close"
+  },
+  {
+    "text": "what",
+    "start": 201.574208,
+    "end": 201.69020799999998,
+    "scene": "close"
+  },
+  {
+    "text": "happens",
+    "start": 201.703083,
+    "end": 202.10258299999998,
+    "scene": "close"
+  },
+  {
+    "text": "next",
+    "start": 202.115458,
+    "end": 202.605166,
+    "scene": "close"
+  },
+  {
+    "text": "That's",
+    "start": 203.04329099999998,
+    "end": 203.18504099999998,
+    "scene": "close"
+  },
+  {
+    "text": "Facetime",
+    "start": 203.197916,
+    "end": 203.752041,
+    "scene": "close"
+  },
+  {
+    "text": "We'd",
+    "start": 204.177333,
+    "end": 204.370624,
+    "scene": "close"
+  },
+  {
+    "text": "love",
+    "start": 204.3835,
+    "end": 204.589666,
+    "scene": "close"
+  },
+  {
+    "text": "to",
+    "start": 204.60258299999998,
+    "end": 204.666999,
+    "scene": "close"
+  },
+  {
+    "text": "show",
+    "start": 204.679916,
+    "end": 204.898999,
+    "scene": "close"
+  },
+  {
+    "text": "you",
+    "start": 204.911875,
+    "end": 205.014958,
+    "scene": "close"
+  },
+  {
+    "text": "the",
+    "start": 205.027833,
+    "end": 205.13091599999998,
+    "scene": "close"
+  },
+  {
+    "text": "controls",
+    "start": 205.143833,
+    "end": 205.63354099999998,
+    "scene": "close"
+  },
+  {
+    "text": "behind",
+    "start": 205.646375,
+    "end": 206.032958,
+    "scene": "close"
+  },
+  {
+    "text": "it",
+    "start": 206.045875,
+    "end": 206.213416,
+    "scene": "close"
+  }
+]

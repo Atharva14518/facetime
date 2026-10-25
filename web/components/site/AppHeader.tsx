@@ -1,0 +1,48 @@
+"use client";
+
+/** The app header from the mockups: home mark, four destinations, and who you are acting as. */
+import Link from "next/link";
+import { usePathname } from "next/navigation";
+import { IconPerson } from "@/components/ds/icons";
+import { WalletBadge } from "@/components/wallet/WalletBadge";
+
+const NAV = [
+  { href: "/market", label: "Marketplace" },
+  { href: "/dashboard", label: "Dashboard" },
+  { href: "/generate", label: "Generate" },
+  { href: "/verify", label: "Verify" },
+];
+
+export function AppHeader() {
+  const path = usePathname();
+  return (
+    <header className="on-dark border-b border-ink-line text-white">
+      <div className="mx-auto flex max-w-[1320px] flex-wrap items-center gap-x-7 gap-y-3 px-4 py-[18px] sm:px-8">
+        <Link href="/" aria-label="Facetime home" className="flex items-center gap-3 text-white no-underline">
+          <span className="flex h-11 w-11 items-center justify-center rounded-full bg-lime text-ink">
+            <IconPerson size={20} />
+          </span>
+          <span className="hidden font-display text-[15px] font-black tracking-[0.04em] md:inline">FACETIME</span>
+        </Link>
+        <nav aria-label="App" className="order-3 flex w-full flex-wrap gap-x-5 gap-y-1 text-[14px] font-medium sm:order-none sm:w-auto sm:flex-1 sm:gap-x-7 sm:text-[15px]">
+          {NAV.map((n) => {
+            const on = path === n.href || path.startsWith(`${n.href}/`);
+            return (
+              <Link
+                key={n.href}
+                href={n.href}
+                aria-current={on ? "page" : undefined}
+                className={`py-3 no-underline ${on ? "border-b-2 border-lime text-lime" : "text-white hover:text-lime"}`}
+              >
+                {n.label}
+              </Link>
+            );
+          })}
+        </nav>
+        <div className="ml-auto flex items-center gap-3">
+          <WalletBadge />
+        </div>
+      </div>
+    </header>
+  );
+}
